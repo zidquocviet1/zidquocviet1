@@ -35,9 +35,6 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**  
 
-<a href="https://github.com/zidquocviet1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidquocviet1&theme=light&count_private=true&layout=compact" alt="Viet's most used languages" />
-</a>
-<a href="https://github.com/zidquocviet1">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=zidquocviet1&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Viet's GitHub stats"/>
-</a>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=zidquocviet1&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=zidquocviet1&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zidquocviet1&layout=compact&theme=radical)
